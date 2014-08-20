@@ -1,0 +1,11 @@
+
+Buenas tardes 
+
+Problema
+Una empresa de jardinería quiere informatizar su gestión, la empresa dispone de un conjunto de clientes, domicilios particulares, hoteles, comunidades de vecinos, etc. A veces, el mismo cliente puede requerir servicios de la empresa para jardines de diferentes ubicaciones, por ejemplo, un propietario de dos hoteles  o un cliente con casa propia y dos chalets, etc. Para cada uno de estos jardines, la empresa elabora un contrato y el importe variará en función del tipo de jardín, de su extensión y del tiempo de dedicación que necesita. El contrato será de una cierta duración y tendrá un tipo de tarifa determinado. 
+Evidentemente, se tendrá que conocer la dirección de cada uno de los jardines a mantener, así como los datos necesarios del propietario, para poder facturarle a final de cada mes todos los servicios realizados por la empresa o avisarlos si surge alguna eventualidad.
+La empresa dispondrá de un sistema informático, que podrá enseñar al cliente todo un conjunto de fotografías de muchas plantas para facilitarle la construcción o ampliación de su jardín, su aspecto, tipo de hojas, de flores, temporada de plantación, de floración, la familia a la que pertenece y su origen. La empresa también tendrá inventariado todos los tipos de materiales que utilizan, tipos de tierras, abonos, etc.
+El empresario tendrá que conocer en todo momento la composición de cada jardín, los tipos de plantas que contiene, el nombre, la fecha de plantación, etc.
+Al final de cada mes, el empresario deberá pagar a todos sus jardineros, un sueldo fijo más un importe por hora extra (para todos igual), así que le gustaría llevar un control exhaustivo de todas las tareas realizadas por cada uno de ellos (plantación, poda, etc.), el lugar donde están trabajando, las horas dedicadas a cada tarea, etc.
+
+
